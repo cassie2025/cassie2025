@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<!--
-**cassie2025/cassie2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Cassie Javorsky. I recently graduated from Mississippi State University with a Bachelor's Degree of Science in Software Engineering.  
+My favorite languages are Python and C++.  
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+You can contact me through:
+LinkedIn: 
+Email:
+Website:
